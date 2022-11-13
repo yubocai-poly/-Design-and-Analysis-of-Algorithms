@@ -134,3 +134,11 @@ class MultiGraph:
     def random_edge(self):
         i = self.random_vertex()
         return [i, random_element(self.adj[i])]
+    
+Lt = [5, [['a', 'b', 1], ['a', 'c', 1], ['a', 'e', 1], ['b', 'c', 1], ['b', 'e', 2], ['c', 'e', 1], ['c', 'd', 1]]]
+m = MultiGraph(Lt)
+print(m.adj)
+print(m.deg)
+m.contract('e', 'b')
+print(m.adj)
+print(m.deg)
