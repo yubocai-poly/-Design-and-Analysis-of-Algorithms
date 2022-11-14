@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+# CSE202 - Design and Algorithms Analysis
+# Midterm 2019
+# Author: Yubo Cai
+
+
 """
 Given a histogram, find the largest area of a rectangle contained in the
 histogram.
