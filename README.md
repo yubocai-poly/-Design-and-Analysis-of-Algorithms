@@ -19,6 +19,24 @@ This course discusses the design and analysis of algorithms. It insists on impor
   - Week 4. Divide and Conquer 3 - Master Theorem and Advanced "Conquer"
 - **Chapter 3:** Randomization
   - Week 5. Randomization 1 - Freivalds' algorithm, Mincut, Quicksort
-  - Week 6. Randomization 2 - Hashing
+  - Week 6. Randomization 2 - Hashing: Application to Sparse Matrices, Hash Tables
+  - Week 7. Randomization 3 - Random Search: Random Walk, k-SAT, WalkSAT
 - **Chapter 4:** Amortization, balancing 
-- **Chapter 5:** P vs NP. Approximation algorithms.
+  - Week 8. Amortization: Dynamic Tables, Union-Find
+  - Week 9. Balance 1: Priority Queues & Heap-ordered Trees, Binary Search Trees
+  - Week 10. Balance with B-Trees: Red-Black BST, B Trees
+- **Chapter 5:** String algorithms
+  - Week 11. String Algorithms 1 - Search: Knuth-Morris-Pratt, DF Automaton, Boyer-Moore
+  - Week 12. String Algorithms 2 - Compression: Tries (aka Digital Search Trees), Lempel-Ziv-Welsh Compression, Huffman Encoding
+- **Chapter 6:** P vs NP. Approximation algorithms.
+  - Week 13. P vs NP: The Class NP, NP-Complete Problems, P vs NP
+  - Week 14. Approximation for hard problems: Approximation for Subset-Sum, Max-SAT and its Approximation, Approximate Traveling Salesman.
+- **Chapter 7:** Back to Divide and Conquer
+  - Week 15. Review and Algorithms Tutorial
+
+## Tools of this course
+Python, Jupyter Notebook, Overleaf
+
+## Extra Reference and Material
+- Introduction to Algorithms, 3rd Edition (The MIT Press)
+- Here is one helpful material for the algorithms covered in this course - [[link]](https://github.com/williamfiset/Algorithms)
